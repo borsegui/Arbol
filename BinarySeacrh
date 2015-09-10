@@ -1,0 +1,7 @@
+# Arbolpublic class BinarySearch<E extends Comparable<E>> 
+/*extends AbstractStructure<E> implements OrderedStructure<E>*/{
+	public BinarySearch(){
+		
+	}
+
+}
