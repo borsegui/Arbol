@@ -1,4 +1,9 @@
-
+/**
+Jonathan Aguirre 14349
+Diego de leo	 14345
+Angel Ochoa   	 14230
+ * 
+ */
 public class Association<K,V>{
 	protected K theKey;
 	protected V theValue;
