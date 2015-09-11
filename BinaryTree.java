@@ -1,12 +1,10 @@
 import java.io.IOException;
 
 /**
+Jonathan Aguirre 14349
+Diego de leo	 14345
+Angel Ochoa   	 14230
  * 
- */
-
-/**
- * @author Ligia Orantes
- *
  */
 public class BinaryTree <E>{
 	private Nodo root;
