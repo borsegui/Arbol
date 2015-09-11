@@ -1,10 +1,8 @@
 /**
+Jonathan Aguirre 14349
+Diego de leo	 14345
+Angel Ochoa   	 14230
  * 
- */
-
-/**
- * @author Ligia Orantes
- *
  */
 public class Nodo <E> {
 	private Association<String, String> p;
