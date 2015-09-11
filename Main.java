@@ -1,7 +1,7 @@
 /**
 Jonathan Aguirre 14349
-Diego de leon
-Angel Ochoa
+Diego de leo	 14345
+Angel Ochoa   	 14230
  * 
  */
 import java.io.BufferedReader;
